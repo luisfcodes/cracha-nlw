@@ -12,7 +12,7 @@ body {
   place-items: center;
 }
 main{
-  background: url(Imagens/Mobile.png);
+  background: url(images/Mobile.png);
   width: 375px;
   height: 812px;
   color: var(--grey);
